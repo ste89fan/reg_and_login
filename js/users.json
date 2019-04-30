@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "role": "user",
+            "username": "Stefan",
+            "password": "1234",
+            "email": "ste1989fan@gmail.com",
+            "phone": "65645654"
+        },
+        {
+            "role": "user",
+            "username": "Dare",
+            "password": "123",
+            "email": "dare12@gmail.com",
+            "phone": "333-333"
+        },
+        {
+            "role": "administrator",
+            "username": "Admin",
+            "password": "000"
+        },
+        {
+            "role": "user",
+            "username": "Simke",
+            "password": "123",
+            "email": "simke12@gmail.com",
+            "phone": "656"
+        },
+        {
+            "role": "user",
+            "username": "Dzoni",
+            "password": "123",
+            "email": "dzoni111@gmail.com",
+            "phone": "555645"
+        }
+    ]
+}
